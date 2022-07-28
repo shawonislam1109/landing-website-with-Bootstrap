@@ -1,0 +1,22 @@
+.text-color{
+        color: rgb(62, 66, 87);
+}
+
+.btn-color{
+        color: #289BDE;
+}
+.font-size{
+        font-size: 3em;
+}
+i{
+        color: goldenrod;
+}
+footer i {
+        color: white;
+        text-align:  center;
+        font-size: 1.5em;
+       padding: 0 10px;
+}
+.width{
+        width: 60%;
+}
